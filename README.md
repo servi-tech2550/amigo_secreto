@@ -34,10 +34,3 @@ En este proyecto puedes ingresar los nombres de tus amigos, hacer un sorteo alea
 - **CSS**: Estilos de la interfaz.
 - **JavaScript**: Lógica del sorteo.
 
-## Contribuciones
-
-Si deseas contribuir al proyecto, puedes hacer un fork del repositorio y enviar un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.

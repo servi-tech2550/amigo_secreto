@@ -5,7 +5,7 @@
 
 ## Descripción del Proyecto
 
-En este proyecto puedes ingresar los nombres de tus amigos, hacer un sorteo aleatorio y ver quién te ha tocado como amigo secreto.
+En este proyecto puedes ingresar los nombres de tus amigos, el programa los ordena alfabeticamente y luego puedes hacer un sorteo aleatorio y ver quién te ha tocado como amigo secreto.
 
 ## Imágenes del Proyecto
 
